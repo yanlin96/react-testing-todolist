@@ -6,7 +6,7 @@ TDD is not mysterious, but it is not easy. Although developers could read testin
 
 I am doing this repo with a tutorial on https://www.imooc.com/new/. It is a Chinese IT online learing website. This guy is the best frontend architect I found - https://www.imooc.com/t/1975036.
 
-Let's code
+It is a Todo list testing. Let's start the TDD
 
 1. If you want to know configurations of `react-create-app` like Jest and webpack, run **_npm run eject_**.
-2.
+2. unit testing for data testing is more easier than the dom testing
